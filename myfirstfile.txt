@@ -1,6 +1,3 @@
 This file requires some changes
-<<<<<<< HEAD
 simultaneously edit origin and local
-=======
 Changes made on github
->>>>>>> bd88faf13d337c3afcfeb2442d2e3206df3cc2d5
